@@ -84,7 +84,7 @@ MAC:
 + git push
 - Những lần sau:
 + Add toàn bộ file change: git add .
-+ Tạo commit mô tả: git commit -m 'homework1'
++ Tạo commit mô tả: git commit -m 'git init'
 + git push
 
 ## Run HTML file:
