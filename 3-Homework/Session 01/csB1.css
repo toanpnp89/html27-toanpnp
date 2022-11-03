@@ -1,0 +1,13 @@
+.body {
+    font: var(--bs-font-times);
+  }
+.first_row{
+    margin-bottom: 20px;
+}
+.format1{
+    margin:0%;
+    height: 20px;
+}
+.format2{
+    margin: 15px 0px;
+}
